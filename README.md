@@ -2,7 +2,7 @@
 
 ![Unity](https://img.shields.io/badge/Engine-Unity-fff.svg?style=flat&logo=unity)
 
-## Demo
+## Video Demo
 
 [![YouTube Demo](https://img.youtube.com/vi/ZfIUpxh8PNs/0.jpg)](https://www.youtube.com/watch?v=ZfIUpxh8PNs)
 
