@@ -8,7 +8,7 @@
 
 ## About
 
-This is my first 3D RPG game project built with Unity after completing my game development course.  
+This is my first 2D RPG game project built with Unity after completing my game development course.  
 Players control a warrior, explore the environment, overcome obstacles, and experience basic RPG mechanics.  
 The project demonstrates fundamental skills in Unity, including player control, environment design, and interactive gameplay.
 
